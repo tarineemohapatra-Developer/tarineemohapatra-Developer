@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tarinee%20Prasad%20Mohapatra&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%2B%20Product%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=A%20true%20engineer%20builds%20what%20works.%20A%20true%20designer%20builds%20what%20feels%20right.%20The%20best%20of%20both%20build%20what%20matters." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Code%20makes%20it%20work.%20Design%20makes%20it%20matter." alt="Typing introduction" />
 </p>
 
 <p align="center">
