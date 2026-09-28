@@ -1,130 +1,225 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tarinee%20Prasad%20Mohapatra&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%2B%20Product%20Designer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Code%20makes%20it%20work.%20Design%20makes%20it%20matter." alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tarineemohapatra-Developer">
-    <img src="https://komarev.com/ghpvc/?username=tarineemohapatra-Developer&label=Profile%20views&color=00FFFF&style=flat-square" alt="tarineemohapatra-Developer's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 🎓 Final-year Computer Science student, always learning and building
-- 🧠 Strong foundation in Data Structures, Algorithms, DBMS & Operating Systems
-- 💻 Full-Stack Developer specializing in the MERN stack
-- 🚀 I design, build & ship complete software projects — end to end
-- 🏗️ From system architecture & data handling to performance optimization
-- 📚 Self-taught through applied, hands-on projects — not just coursework
-- 🤝 Comfortable bridging deep technical work with clear, non-technical communication
-- 🌱 Currently exploring new tools, frameworks & best practices
-- 📫 Open to opportunities & collaborations — let's connect!
-
-
-## 🧠 My Focus Areas
-- 🌐 Full-Stack Web Development (MERN Stack)
-- 🏗️ System Design & Software Architecture
-- 🗄️ Database Design & Optimization
-- ⚙️ Data Structures & Algorithms
-- 🖥️ Operating Systems & Computer Fundamentals
-- ⚡ Performance Optimization & Scalable Systems
-- 🔗 RESTful APIs & Backend Development
-- 🎨 UI/UX-Focused Frontend Development
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/tarineemohapatra-Developer">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tarineemohapatra-Developer&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="tarineemohapatra-Developer's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=tarineemohapatra-Developer&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="tarineemohapatra-Developer's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=tarineemohapatra-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tarinee Prasad Mohapatra's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tarineemohapatra-Developer&theme=tokyonight&radius=10" alt="tarineemohapatra-Developer's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/tarineemohapatra-Developer">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tarineemohapatra-Developer&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=tarineemohapatra-Developer)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/tarinee-mohapatra-15a2793b6"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Tarinee Prasad Mohapatra's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tarinee.mohapatra@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Tarinee Prasad Mohapatra's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/7205830747"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<!-- ═══════════ HEADER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FF9933,50:0d1117,100:138808&text=TARINEE%20MOHAPATRA&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Engineer%20%C2%B7%20Designer%20%C2%B7%20Future%20Officer&descSize=15&descAlignY=60" width="100%" alt="Tarinee Mohapatra — Engineer, Designer, Future Officer"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+### ନମସ୍କାର &nbsp;·&nbsp; Namaskar 🙏
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=FF9933&center=true&vCenter=true&width=435&height=40&lines=Software+Engineer;Product+Designer;Future+Indian+Army+Officer;Code+%C2%B7+Design+%C2%B7+Defence" alt="Typing animation" />
+
+<br/>
+
+**Tarinee Prasad Mohapatra**
+<br/>
+<sub>Bhubaneswar, Odisha 🇮🇳 &nbsp;·&nbsp; B.Tech CSE '26 &nbsp;·&nbsp; ଓଡ଼ିଆ + English</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tarineemohapatra-Developer&label=VISITORS&color=FF9933&style=for-the-badge" alt="Profile views" />
+
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ CREED ═══════════ -->
+<div align="center">
+
+## ⚔️ The Creed
+
+> **Code makes it work.**
+> **Design makes it matter.**
+> **Discipline makes it last.**
+
+</div>
+
+```mermaid
+flowchart TD
+  A["💻 CODE<br/>makes it work"] --> D
+  B["🎨 DESIGN<br/>makes it matter"] --> D
+  C["🛡️ DISCIPLINE<br/>makes it last"] --> D
+  D(("TARINEE"))
+  style D fill:#FF9933,stroke:#138808,stroke-width:3px,color:#000
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ WHOAMI ═══════════ -->
+## 🧬 Who I Am
+
+```bash
+$ whoami
+tarinee — builder of things that work
+          and look like they belong
+
+$ roles --now
+software engineer · product designer
+
+$ mission
+build for India, from inside the
+institution — with code, craft, courage
+
+$ status
+open to work ✅  open to collaborate ✅
+```
+
+I'm a final-year Computer Science engineer who refuses to pick one lane. I write full-stack software, I design the systems people actually touch, and I'm preparing to serve as an officer in the **Indian Army** — because I believe the best technology for soldiers will be built by people who have *worn the uniform and understand the field*.
+
+Different worlds, one obsession: **build things that are precise, purposeful, and rooted in where I come from.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ FLAGSHIP ═══════════ -->
+## 🚀 Flagship Work
+
+<details open>
+<summary><b>🛡️ CHAKRAVYUH</b> — Defence-tech UI/UX system</summary>
+<br/>
+
+A design system for the **Indian Army & DRDO**. Dual-mode identity — *DRDO Cold Iron* and *Army Burning Steel* — with mission-grade dashboards, bento-style command layouts, and a typography voice built for clarity under pressure.
+
+`Figma` · `Design Systems` · `Variables & Modes` · `Dashboards`
+
+</details>
+
+<details open>
+<summary><b>🪔 DHANVANTARI</b> — AYUSH healthcare ecosystem</summary>
+<br/>
+
+A complete healthcare ecosystem concept across four wings — **Patient · Doctor · Pharmacy · Administration** — wrapped in a visual identity drawn from Indian heritage: bilingual (EN/हिं) type system, dawn/dusk colour modes, and a hand-illustrated campus world.
+
+`Figma` · `Design Systems` · `Bilingual Typography` · `Illustration Direction`
+
+</details>
+
+<details>
+<summary><b>🎨 Indian Art Gallery</b> — a living exhibition <i>(in the works)</i></summary>
+<br/>
+
+A heavily animated, gallery-style website celebrating Madhubani, Warli, Pattachitra, Gond, Kalamkari and more — each art form paired with its own motion language.
+
+`React` · `GSAP` · `ScrollTrigger` · `Lenis` · `Three.js`
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ ARSENAL ═══════════ -->
+<div align="center">
+
+## 🛠️ The Arsenal
+
+<sub>LANGUAGES</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&perline=6" alt="Languages" />
+
+<sub>FRONTEND</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6" alt="Frontend" />
+
+<sub>BACKEND & DATA</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&perline=6" alt="Backend" />
+
+<sub>CLOUD & DEVOPS</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,vite&perline=6" alt="DevOps" />
+
+<sub>DESIGN & WORKFLOW</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,vscode&perline=6" alt="Design tools" />
+
+<br/><br/>
+
+**Core:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · System Design
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ PRINCIPLES ═══════════ -->
+## 🧭 How I Work
+
+- 🔨 **Ship it.** Learning happens fastest when something real is on the line.
+- 🎯 **Precision over noise.** Right word, right pixel, right query.
+- 🏛️ **Rooted, not stuck.** Indian heritage is a design language, not a decoration.
+- 🤝 **Bridge people.** Deep technical work, explained so anyone can follow.
+- 🌱 **Always in beta.** Cloud labs, new stacks, new craft — I keep levelling up.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ THE LONG GAME ═══════════ -->
+## 🎖️ The Long Game
+
+```text
+  TODAY        →   Engineer + Designer
+  NEXT         →   Commissioned Officer
+                   (CDS · AFCAT)
+  THEN         →   Field credibility,
+                   technical postings
+  ULTIMATELY   →   Soldier-tech that is
+                   designed, not improvised
+```
+
+> *Seva Paramo Dharma* — Service before Self.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ STATS ═══════════ -->
+<div align="center">
+
+## 📊 Proof of Work
+
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tarineemohapatra-Developer&show_icons=true&hide_border=false&border_radius=12&bg_color=0d1117&title_color=FF9933&icon_color=138808&text_color=c9d1d9&border_color=FF9933&cache_seconds=7200" alt="GitHub Stats" />
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=tarineemohapatra-Developer&background=0D1117&border=FF9933&stroke=30363D&ring=FF9933&fire=FF9933&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9933&sideLabels=C9D1D9&dates=8B949E&border_radius=12&cache_seconds=86400" alt="GitHub Streak" />
+
+<img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tarineemohapatra-Developer&langs_count=8&layout=compact&hide_border=false&border_radius=12&bg_color=0d1117&title_color=FF9933&text_color=c9d1d9&border_color=FF9933&cache_seconds=7200" alt="Top Languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarineemohapatra-Developer&bg_color=0d1117&color=FF9933&line=FF9933&point=138808&area=true&area_color=FF9933&hide_border=true&radius=12" alt="Activity Graph" />
+
+<img src="https://trophy.ryglcloud.net/?username=tarineemohapatra-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&cache_seconds=86400" alt="GitHub Trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ COMMUNITY ═══════════ -->
+<div align="center">
+
+## 🌐 Communities
+
+<img src="https://img.shields.io/badge/Google%20Developer%20Group-Member-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG" />
+<img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-FF9933?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" />
+
+<sub>Creative lab & brand → <b>theboldcanvas_lab</b></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
+
+<!-- ═══════════ CONNECT ═══════════ -->
+<div align="center">
+
+## 🤝 Let's Build Something
+
+<sub>Hiring for **Product Design** or **Software Engineering**?<br/>Have a bold idea? My inbox is open.</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/tarinee-mohapatra-15a2793b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tarinee.mohapatra@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Contribution space shooter" width="100%" />
+
+<br/>
+
+<sub><i>"Where there is discipline, there is design. Where there is design, there is direction."</i></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:138808,50:0d1117,100:FF9933&section=footer" width="100%" alt="footer"/>
