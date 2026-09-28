@@ -28,20 +28,13 @@
 
 ## ⚔️ The Creed
 
-> **Code makes it work.**
-> **Design makes it matter.**
-> **Discipline makes it last.**
+<img src="https://img.shields.io/badge/CODE-makes%20it%20work-FF9933?style=for-the-badge&labelColor=0d1117" alt="Code makes it work" />
+<br/>
+<img src="https://img.shields.io/badge/DESIGN-makes%20it%20matter-FFFFFF?style=for-the-badge&labelColor=0d1117" alt="Design makes it matter" />
+<br/>
+<img src="https://img.shields.io/badge/DISCIPLINE-makes%20it%20last-138808?style=for-the-badge&labelColor=0d1117" alt="Discipline makes it last" />
 
 </div>
-
-```mermaid
-flowchart TD
-  A["💻 CODE<br/>makes it work"] --> D
-  B["🎨 DESIGN<br/>makes it matter"] --> D
-  C["🛡️ DISCIPLINE<br/>makes it last"] --> D
-  D(("TARINEE"))
-  style D fill:#FF9933,stroke:#138808,stroke-width:3px,color:#000
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,100:138808&height=3&section=header" width="100%" alt="divider"/>
 
